@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/CI_Nanocourse_Babak/__init__.py
+src/CI_Nanocourse_Babak/hello.py
+src/CI_Nanocourse_Babak/scratch.py
+src/ci_nanocourse_babak.egg-info/PKG-INFO
+src/ci_nanocourse_babak.egg-info/SOURCES.txt
+src/ci_nanocourse_babak.egg-info/dependency_links.txt
+src/ci_nanocourse_babak.egg-info/entry_points.txt
+src/ci_nanocourse_babak.egg-info/requires.txt
+src/ci_nanocourse_babak.egg-info/top_level.txt

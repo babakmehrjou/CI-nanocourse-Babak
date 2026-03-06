@@ -1,0 +1,2 @@
+[console_scripts]
+shortcut = CI_Nanocourse_Babak.hello:main

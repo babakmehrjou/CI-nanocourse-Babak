@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: ci-nanocourse-babak
+Version: 0.1.0
+Summary: A teaching repository for continuous integration with GitHub.
+Requires-Python: >=3.9.7
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Provides-Extra: docs
+Requires-Dist: sphinx; extra == "docs"
+Provides-Extra: tests
+Requires-Dist: pytest; extra == "tests"
+Provides-Extra: dev
+Requires-Dist: pre-commit; extra == "dev"
+Requires-Dist: ruff; extra == "dev"

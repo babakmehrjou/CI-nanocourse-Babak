@@ -1,0 +1,12 @@
+numpy
+matplotlib
+
+[dev]
+pre-commit
+ruff
+
+[docs]
+sphinx
+
+[tests]
+pytest
